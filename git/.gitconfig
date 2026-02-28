@@ -2,3 +2,5 @@
 	email = numsqx@proton.me
 	name = Vincent Yanzee J. Tan
 	signingkey = 39BA41D8E46D58086D0049D1DB7A412531126BD9
+[core]
+	excludesfile = /home/numsqx/.gitignore_global
