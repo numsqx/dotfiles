@@ -1,4 +1,4 @@
-# Function shortcuts
+# Functions
 #
 
 mkcd() {

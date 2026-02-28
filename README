@@ -1,7 +1,5 @@
 Dev customization
 
-  stow */
-
-Or per package
-
   stow nvim
+  # or all packages
+  stow */
